@@ -13,7 +13,7 @@
   <url>http://geonetwork-opensource.org</url>
   <scm>
     <connection>
-      scm:svn:https://geonetwork.svn.sourceforge.net/svnroot/geonetwork/trunk
+      scm:svn:https://svn.code.sf.net/p/geonetwork/code/trunk/
     </connection>
     <url>https://geonetwork.svn.sourceforge.net/svnroot/geonetwork/trunk</url>
   </scm>
