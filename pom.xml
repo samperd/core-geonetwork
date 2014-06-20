@@ -11,11 +11,11 @@
     Open Source catalog application to manage spatially referenced
     resources through the web.</description>
   <url>http://geonetwork-opensource.org</url>
-  <scm>
+    <scm>
     <connection>
-      scm:svn:https://github.com/samperd/core-geonetwork
+      scm:svn:https://geonetwork.svn.sourceforge.net/svnroot/geonetwork/trunk
     </connection>
-    <url>https://github.com/geonetwork/core-geonetwork</url>
+    <url>https://geonetwork.svn.sourceforge.net/svnroot/geonetwork/trunk</url>
   </scm>
   <inceptionYear>2003</inceptionYear>
   <issueManagement>
