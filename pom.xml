@@ -18,8 +18,8 @@
     <url>https://geonetwork.svn.sourceforge.net/svnroot/geonetwork/trunk</url>
   </scm>
   <inceptionYear>2003</inceptionYear>
-  <system>trac</system>
   <issueManagement>
+    <system>trac</system>
     <url>http://trac.osgeo.org/geonetwork/report</url>
   </issueManagement>
   <mailingLists>
