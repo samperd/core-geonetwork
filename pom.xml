@@ -13,7 +13,7 @@
   <url>http://geonetwork-opensource.org</url>
   <scm>
     <connection>
-      scm:git:https://github.com/samperd/core-geonetwork.git
+      scm:svn:https://github.com/samperd/core-geonetwork
     </connection>
     <url>https://github.com/geonetwork/core-geonetwork</url>
   </scm>
