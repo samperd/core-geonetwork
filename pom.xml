@@ -18,9 +18,9 @@
     <url>https://geonetwork.svn.sourceforge.net/svnroot/geonetwork/trunk</url>
   </scm>
   <inceptionYear>2003</inceptionYear>
+  <system>trac</system>
   <issueManagement>
-    <system>Github</system>
-    <url>https://github.com/geonetwork/core-geonetwork/issues</url>
+    <url>http://trac.osgeo.org/geonetwork/report</url>
   </issueManagement>
   <mailingLists>
     <mailingList>
